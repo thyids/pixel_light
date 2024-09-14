@@ -1,0 +1,28 @@
+{
+  "block.test.blue": "蓝块",
+  "block.test.blue_ore": "蓝矿石",
+
+
+  "item.test.blue_sword": "蓝剑",
+  "item.test.blue_axe": "蓝斧",
+  "item.test.blue_chestplate": "蓝胸甲",
+  "item.test.blue_helmet": "蓝头盔",
+  "item.test.blue_leggings": "蓝护腿",
+  "item.test.blue_boots": "蓝靴子",
+  "item.test.blue_pickaxe": "蓝镐",
+  "item.test.blue_shovel": "蓝铲",
+  "item.test.blue_hoe": "蓝锄",
+
+
+  "item.test.bluetest_bucket": "蓝桶",
+
+
+  "itemGroup.testTab": "蓝项",
+  "item.test.sapphire": "蓝锭",
+
+
+  "item.test.nb_apple": "满级苹果",
+
+  "key.test.test_key": "发送你好",
+  "key.category.test": "像素灯"
+}

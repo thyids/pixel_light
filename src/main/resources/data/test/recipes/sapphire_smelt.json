@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "test:blue_ore"
+  },
+  "result": "test:sapphire",
+  "experience": 30.0,
+  "cookingtime": 200
+}
