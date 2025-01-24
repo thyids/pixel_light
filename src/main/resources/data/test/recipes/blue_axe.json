@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx ",
+    "xt ",
+    " t "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "test:sapphire"
+    },
+    "t":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "test:blue_axe",
+    "count": 1
+  }
+}

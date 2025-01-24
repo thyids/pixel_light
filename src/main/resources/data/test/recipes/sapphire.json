@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "test:blue"
+    }
+  ],
+  "result": {
+    "item": "test:sapphire",
+    "count": 9
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    " x ",
+    " t "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "test:sapphire"
+    },
+    "t":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "test:blue_sword",
+    "count": 1
+  }
+}
